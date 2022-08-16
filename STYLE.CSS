@@ -1,0 +1,55 @@
+            #idz {
+                text-align: center;
+                font-size: larger;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            #eu {
+                float: left;
+                height: 290Spx;
+                padding: 3px;
+                background-color: beige;
+            }
+            
+        .imagem-conteiner {
+            height: 290px; 
+            position: relative;
+
+        }
+            .links {
+                width: 10px;
+                position: relative;
+                background-color:rgb(21, 43, 240);
+            }
+            body {
+                background-color: rgb(118, 26, 204); 
+                padding: 3%; 
+                
+            }
+            
+            #title-fot {
+                    font-family: sans-serif, 'Times New Roman', Times, serif
+            }
+            #descri {
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+                float: left;
+                top: 40px
+                right: 20px
+            }
+            #sobre {
+                font-family: Arial, Helvetica, sans-serif; 
+                text-align: center;
+            }
+
+            .list {
+                font-size: medium;
+                color: beige; 
+            }
+            p{
+                color: beige;
+                font-family: Arial, Helvetica, sans-serif;
+            } 
+            a{
+                color: beige;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            
